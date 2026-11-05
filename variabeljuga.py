@@ -1,0 +1,16 @@
+nama = "Shofia Rahmi"
+nama_panggilan = "Rahmi"
+umur = "18 tahun"
+alamat = "Paokmotong"
+no_hp = "085922000697"
+email = "rshofia06@gmail.com"
+cita_cita = "orang yang bermanfaat"
+status = "mahasiswi"
+universitas = "Universitas Hamzanwadi"
+prodi = "Pendidikan Informatika"
+hobi = "membaca, bermain gitar, bernyanyi, dan mendengarkan musik"
+idola = "Rony Parulian dan Salma Salsabil"
+alasan = "suara dan visualnya manteppp"
+harapan = "dapet nonton konser Salma dan Rony, lulus tepat waktu dengan predikat cumlaude, serta dapet beasiswa full S2 luar negeri"
+
+print(f"Hai, perkenalkan namaku {nama}, aku akrab dipanggil {nama_panggilan}, aku baru saja menginjak usia {umur}, aku berasal dari {alamat}, nomorku {no_hp}, emailku {email}, aku bercita-cita menjadi {cita_cita}. Saat ini, aku adalah seorang {status}, di {universitas}, pada Program Studi {prodi}. Aku memiliki hobi yang sangat beragam, contohnya {hobi}, aku sangat suka mendengar lagu dari {idola}, karena {alasan}, aku berharap {harapan}")
